@@ -1,7 +1,10 @@
 <h1 align="center">Credit Card Customer Analysis</h1>
 Credit card usage behavior data is a valuable resource for companies seeking to optimize their marketing strategies. By understanding the patterns of behavior exhibited by credit card users, companies can tailor their marketing efforts to target specific groups of users more effectively. However, working with such data can present several challenges, including data quality issues, missing values, and the need to identify meaningful patterns within the data. Our goal is to group users based on their behavior in order to develop an effective and efficient credit card marketing strategy.</br>
 <h3>Getting Started</h3>
-Download the Credit_Card_Customer_Analysis.ipynb.Download the Kaggle API token to the current directory.</br>
+Download the Customer_Credit_Card_Analysis.ipynb in Jupiter notebook.Download the Kaggle API token to the current directory.
+</br>
+</br>
+The details and explanations related to the analysis can be found in the Customer_Credit_Card_Analysis.html
 <h3>About the dataset</h3>
 In this project, we will work with a dataset containing the credit card usage behavior of around 9000 users over a six-month period. We will explore the data, preprocess it, and apply clustering algorithms to segment the customers into different groups based on their usage behavior.The dataset is taken from:-
 <br/>
